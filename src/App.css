@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.split {
+  width: 50%;
+  top: 0;
+  padding-top: 20px;
+}
+
+.container {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid indianred;
+  margin-left: 0;
+}
+
+.posts {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid turquoise;
+  margin-right: 0;
+}
